@@ -25,3 +25,7 @@ UI дизайн взят из **Figma Community**.
 ---
 
 # 📸 Preview
+
+<p align="center">
+  <img src="screenshots/main.png" width="24%">
+</p>
